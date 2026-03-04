@@ -1,0 +1,16 @@
+{
+  "name": "jetkvm-video-proxy",
+  "version": "1.0.0",
+  "description": "A minimal, zero-dependency video viewer for [JetKVM](https://jetkvm.com/) devices. Strips the full KVM UI and displays only the HDMI video feed at 100% viewport size — ideal for embedding in dashboards or iframes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}

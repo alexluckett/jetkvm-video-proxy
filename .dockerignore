@@ -1,0 +1,13 @@
+.git/
+specifications/
+node_modules/
+.env
+.DS_Store
+*.md
+!README.md
+.playwright-mcp/
+backup.md
+tests/
+package.json
+package-lock.json
+vitest.config.*
